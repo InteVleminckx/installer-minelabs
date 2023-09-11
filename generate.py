@@ -1,6 +1,10 @@
 import subprocess
 import sys
 
+"""
+This file will generate an executable, hallo mijn naam is inte
+"""
+
 if __name__ == '__main__':
     number_of_arguments = len(sys.argv)
 
